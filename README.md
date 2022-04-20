@@ -9,7 +9,6 @@
 要安装最新的开发版本，请键入以下命令：
      git clone https://github.com/ThanatosXingYu/SchoolFool
      pip install psutil
-
 使用Python3.x
 再缺少什么库pip install即可。
 
