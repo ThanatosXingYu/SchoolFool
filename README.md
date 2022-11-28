@@ -3,7 +3,7 @@
 插入U盘后，电脑会响起国歌，浏览器无限弹窗
 
 # 效果
-电脑开机后会自动运行本程序，当检测到U盘(可移动设备)后会自动弹窗，循环打开[网页](fhzx.top/laji),并且播放[国歌](fhzx.top/laji/a.mp3)
+电脑开机后会自动运行本程序，当检测到U盘(可移动设备)后会自动弹窗，循环打开[网页](fhzx.top/laji)，并且播放[国歌](fhzx.top/laji/a.mp3)
 
 # 安装
 
@@ -13,7 +13,7 @@ git clone https://github.com/ThanatosXingYu/SchoolFool
 pip install psutil
 ```
 使用Python3.x
-再缺少什么库pip install即可。
+再缺少什么库pip install即可
 
 # 运行方法
 
@@ -25,4 +25,4 @@ pip install psutil
 
 # 说明
 
-本程序只为恶搞使用，无任何传染性、破坏性，使用所造成的一切后果请自行承担。
+本项目只为恶搞使用，无任何传染性、破坏性，使用所造成的一切后果请自行承担
