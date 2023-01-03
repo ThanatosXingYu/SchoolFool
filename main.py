@@ -13,7 +13,7 @@ while a==0:
     sleep(1)
     for item in disk_partitions():
         if 'removable' in item.opts:
-            #messagebox.showwarning(title="垃圾学校",message="我要放假")
+            messagebox.showwarning(title="垃圾张艺腾",message="我要吃你")
             #os.system("start D:\\HugoMoveData\\User\\seewo\\Downloads\\install\\a.vbs B MIN")
             if t==0:
                 for i in range(4):
